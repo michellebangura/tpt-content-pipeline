@@ -1,2 +1,4 @@
-# tpt-content-pipeline
-TPT scraping, scoring, and Bright Standard content factory pipeline
+># TPT Content Pipeline
+Scrape → Score → Generate → Publish
+
+See HAIKU_PROMPT.md for the Claude Code session prompt.
